@@ -1,2 +1,6 @@
 #!/usr/bin/env node
-console.log('welcome to the Brain games')
+
+import { askName } from '../src/cli.mjs';
+
+console.log('welcome to the Brain games');
+askName();
