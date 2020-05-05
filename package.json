@@ -1,0 +1,24 @@
+{
+  "name": "hexlet_frontend_lvl1",
+  "version": "1.0.0",
+  "description": "\"# frontend-project-lvl1\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bin/brain-games.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smoking68tv/frontend-project-lvl1.git"
+  },
+  "type": "module",
+  "bin": {
+    "brain-games": "bin/brain-games.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smoking68tv/frontend-project-lvl1/issues"
+  },
+  "homepage": "https://github.com/smoking68tv/frontend-project-lvl1#readme"
+}
